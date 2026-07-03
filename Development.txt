@@ -1,0 +1,77 @@
+Coding/Development : 
+
+1. Web Development :  
+	Create a Website/Webapp 
+
+Basic : HTML(Hyper Text Markup Language)
+		create a Structure of Website
+
+	CSS (Cascading Style Sheet)
+		Design a Structure of Website
+
+	JS (JavaScript)
+		To Implement Functionality in a Website
+
+
+	- Full-stack Developer
+	- Front-end Developer : UI
+	- Backend Developer : Server (Database)
+	- MERN Stack Developer 
+	- React Developer
+	- NodeJS Developer
+	- API Developer
+	
+
+2. App Development : 
+	Create a Application 
+3. AI/ML : 
+	
+=====================================
+=> What is a HTML ?
+-> HTML stands for Hyper text Markup Language.
+
+=> Use : 
+- To Create a Structure of Website/Webpage.
+	- Webpage : Single HTML.
+	- Website : Collection of Webpages.
+		Static Website.
+		Dynamic Website.
+
+		WebApp. (Components)
+======================================
+=> Language :- 
+
+Human Language
+
+Human(Gujarati) 	 ----> 	 Human(Gujarati)
+
+Human(Gujarati/English) 	 ----> 	 Human(Gujarati/Hindi)
+
+Human(English) 	 ----> 	 Human(French)
+
+=================================
+Computer / Laptop / Machine
+
+
+Human 	-->  Computer
+
+Programing language :  (Logic)
+C
+CPP
+Python
+Java
+
+
+Computer Language :  
+
+
+
+
+
+
+
+
+
+
+
+ 
