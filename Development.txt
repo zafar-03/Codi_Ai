@@ -65,11 +65,37 @@ Java
 Computer Language :  
 
 
+===================================
+HTML Error ? 
+	NO
 
 
+Check Error : https://validator.w3.org/     (w3c validator)
+====================================
+image extension : jpeg , jpg , avif, gif, png, svg
+====================================
+Element : 
+1. Closing Tag : 
+	<h1></h1>
+
+2. Unclosing Tag:
+	<img />
+
+================================
+1. Image Tag : 
+	Attribute : 
+		1. src (source)  path
+		2. width : px
+		3. height : px
+		4. alt : alternative text
 
 
-
+================================
+2. Marquee : 
+	Attribute : 
+		1. direction : left(default)/right/up/down
+		2. behavior : scroll(default)/slide/alternate
+		3. scrollAmount : default(6)
 
 
 
