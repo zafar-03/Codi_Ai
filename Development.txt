@@ -88,6 +88,7 @@ Element :
 		2. width : px
 		3. height : px
 		4. alt : alternative text
+		5. title : display name (hint)
 
 
 ================================
@@ -96,8 +97,12 @@ Element :
 		1. direction : left(default)/right/up/down
 		2. behavior : scroll(default)/slide/alternate
 		3. scrollAmount : default(6)
-
-
+======================================
+3. Anchor Tag : 
+- MOST IMP : 
+- work : Linking
+	Attribute : 
+		1. href = hyper reference    (path)
 
 
  
