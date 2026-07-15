@@ -1,0 +1,33 @@
+What is CSS ? 
+Cascading Style Sheet
+
+Use : 
+to design our website/ Structure of HTML
+
+
+Version : 
+CSS 
+CSS2
+CSS3 (Latest)
+
+
+
+type of CSS :   X
+
+How to Impletement CSS with our HTML ?
+1. Inline CSS :-
+    - always written in a starting tag.
+    - use style attribute
+
+2. Internal CSS :-
+    - use style tag in a HTML file.
+    - must be written in a Head Tag.
+
+3. External CSS :-
+    - create a new file with '.css' extension.
+    - link/connect css file with our HTML file. 
+
+
+Note : 
+    we can use HTML without CSS. 
+    but we cann't use CSS without HTML. 
