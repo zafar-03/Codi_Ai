@@ -31,3 +31,14 @@ How to Impletement CSS with our HTML ?
 Note : 
     we can use HTML without CSS. 
     but we cann't use CSS without HTML. 
+
+
+======================================
+Design          : creativity   : 75%
+
+coding
+
+Web Devlopment : 50%
+Programing     : 
+Ai/ML          : 
+======================================
