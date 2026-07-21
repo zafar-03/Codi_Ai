@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "zafar";
+    src: url("Articullare-Regular.otf");
+}
+
+
+p{
+    font-size: 32px;
+    font-family: "zafar";
+}
