@@ -1,0 +1,143 @@
+header{
+    border-bottom: 1px solid gainsboro;
+    background-color: white;
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+}
+#logo{
+    width: 150px;
+    float: left;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+input{
+    background-color: gainsboro;
+    border: none;
+    width: 600px;
+    padding: 10px 15px;
+    border-radius: 20px;
+    margin-left: 200px;
+    margin-top: 20px;
+    margin-right: 200px;
+    margin-bottom: 20px;
+}
+button{
+    background-color: rgb(225, 43, 74);
+    color: white ;
+    border: none;
+    padding: 10px 15px;
+    margin-left: 100px;
+    border-radius: 20px;
+    margin-right: 50px;
+}
+span{
+    position: relative;
+    top: 8px;
+}
+
+/* 24-07 */
+/* Universal Selector */
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+nav{
+    display: inline-block;
+    background-color: rgb(230, 228, 228);
+    width: 15%;
+    height: 600px;
+    border-right: 1px solid rgb(191, 189, 189);
+    position: fixed;
+}
+ul{
+    list-style-type: none;
+    font-family: calibri;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+li{
+    padding: 10px 5px;
+}
+
+/* Hover Effect */
+li:hover{
+    background-color: white;
+    color: blue;
+}
+section{
+    display: inline-block;
+    position: relative;
+    left: 15%;
+    padding: 20px;
+}
+
+section img{
+    width: 100px;
+    height: 100px;
+    margin:10px;
+    border-radius: 50%;
+    border: 3px solid rgb(223, 4, 212);
+}
+
+main{
+    background-color: gainsboro ;
+    padding: 10px;
+    border-radius: 8px;
+    font-family: calibri;
+    margin: 10px;
+    border: 1px solid rgb(186, 184, 184);
+}
+
+main img{
+    width: 700px ;
+    border-radius: 8px;
+    height: 400px;
+    border: none;
+}
+
+
+/* --- */
+div{
+    display: inline-block;
+    position: fixed;
+    z-index: 2;
+    top: 75px;
+    width: 30%;
+    left: 62%;
+    padding-top: 60px;
+    padding-left: 20px;
+    font-family: calibri;
+    overflow: auto;
+    height: 500px;
+}
+h3{
+    padding-bottom: 15px;
+}
+div img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+      border: 3px solid rgb(223, 4, 212);
+    float: left;
+}
+
+div span{
+    position: relative;
+    top: 30px;
+    left: 20px;
+}
+
+div a{
+   position: relative;
+    top: 30px;
+    left: 50px;
+    text-decoration: none;
+    color: blue;
+}
+aside{
+    overflow: auto;
+    padding: 15px;
+}

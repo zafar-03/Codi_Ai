@@ -1,0 +1,76 @@
+Language : 
+
+Human Languages
+
+Human  -> Human 
+(Ex : Hindi , Gujarati, English , French ...etc) 
+
+
+Human 	   ->   Human 
+Hindi, Guj	Eng,Hindi
+
+Human 	   ->       Human 
+Hindi		   English
+	Translator
+	(Hindi + English)
+	
+
+Programming Languages 
+
+Human    -> Computer
+h. lang		Machine Lang/Binary
+
+p. lang         Machine Lang/Binary
+	Translator 
+
+
+Zomato : Food Order (Pizza)
+
+
+Program : Set of Instruction 
+
+Programming Language :   (Logic)
+
+C ,CPP,JAVA,PYTHON,C#, Shift , go-lang   etc...
+
+
+PYTHON : 
+
+save File : extension : .py
+
+
+
+variable   value
+
+name = Raj
+firstname = Rajesh
+fname = Rajendra
+
+
+print("Hello Everyone, Welcome to Python World!!")
+print("This is Second Line")
+print(1+3)
+
+
+
+fname = "Sahil"
+print(fname)
+print("Your name is",fname)
+fname = input("Enter your Name : ")
+print("Your name is",fname)
+
+
+
+
+firstName : ___
+Lanstname : 
+Age : 
+Gender : 
+Goal : 
+Hobbies : 
+Institute  name : 
+
+
+
+
+

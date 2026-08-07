@@ -1,0 +1,359 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+header{
+    border-bottom: 1px solid gainsboro;
+}
+
+#nav1{
+    background-color: gainsboro;
+    position: relative;
+    padding: 16px 100px;
+}
+#nav1 p{
+    display: inline-block;
+    font-family: calibri;
+}
+header select{
+    position: absolute;
+    right: 100px;
+    top: 16px;
+    border: none;
+    background-color: transparent;
+}
+
+
+#nav2{
+    padding: 5px 100px;
+    overflow: auto;
+    position: relative;
+}
+#nav2 img{
+    width: 150px;
+    float: left;
+}
+#nav2 input{
+    padding: 10px 20px;
+    width: 30%;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+#nav2 button{
+padding: 10px 20px;
+position: relative;
+padding-left: 40px;
+color: black;
+margin-left: 20px;
+}
+button span{
+    position: absolute;
+    top: 5px;
+    left: 15px;
+}
+#nav2 div{
+    display: inline-block;
+    position: absolute;
+    right: 100px;
+    top: 21px;
+}
+
+#nav3{
+    padding: 10px 100px;
+}
+#nav3 ul{
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 100px;
+    font-family: calibri;
+}
+li{
+    display: inline-block;
+    margin: 0px 15px;
+    position: relative;
+}
+li span{
+    position: absolute;
+    right: -24px;
+}
+#nav3 button{
+    background-color: #28a745;
+    color: white;
+    padding: 8px 20px;
+    border: none;
+    border-radius: 8px;
+}
+
+/* ---------- */
+#heading{
+    padding: 80px 130px 20px;
+}
+h1{
+    background-color: gainsboro;
+    padding: 40px 10px;
+    border-radius: 16px;
+}
+
+
+#filter{
+    padding: 16px 100px;
+    position: relative;
+}
+#filter p{
+    display: inline-block;
+    color: black;
+    font-family: calibri;
+}
+#filter div{
+    display: inline-block;
+    position: absolute;
+    right: 100px;
+    top: 12px;
+}
+div button{
+    padding: 5px 10px;
+    background-color: transparent;
+    border: 1px solid gainsboro;
+    border-radius: 4px;
+    margin: 0px 5px;
+}
+#btnclr1{
+    border: 1px solid #28a745;
+    background-color: #d8f8e0;
+}
+div select{
+    border: 1px solid gainsboro;
+    padding: 5px 10px;
+    border-radius: 4px;
+}
+#select2{
+    width: 200px;
+}
+
+
+
+#products{
+    padding: 16px 100px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 15px;
+    font-family: calibri;
+}
+
+#products main{
+    border: 1px solid gainsboro;
+    padding: 10px;
+    border-radius: 16px;
+}
+#products img{
+    width: 100%;
+}
+#products p{
+    color: gainsboro;
+}
+#products  div{
+    overflow: auto;
+}
+#products  div p{
+    display: inline-block;
+    color: black;
+    padding-top: 5px ;
+}
+p span{
+    color: gray;
+    text-decoration: line-through;
+    font-size: 12px;
+}
+
+#products button{
+    float: right;
+    background-color: #28a745;
+    color: white;
+    border: none;
+}
+
+#paggination{
+    text-align: center;
+    padding: 30px;
+}
+#paggination button{
+    margin: 0px;
+}
+#selectedbtn{
+    background-color: #28a745;
+    color: white;
+    border: 1px solid #28a745;
+}
+footer{
+    background-color: gainsboro;
+    padding: 16px 100px;
+    font-family: calibri;
+    overflow: auto;
+}
+footer p{
+    display: inline-block;
+}
+footer div{
+    display: inline-block;
+    float: right;
+}
+footer button{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(165, 164, 164);
+    border-radius: 50%;
+}
+
+/* ------------- */
+#heading-cart{
+    padding: 16px 100px 40px;
+    font-family: calibri;
+}
+
+
+#cart-menu{
+    padding: 16px 100px;
+    display: grid;
+    grid-template-columns : 2fr .8fr;
+    gap: 20px;
+}
+
+#cart-menu #main2{
+    border: 1px solid gainsboro;
+    justify-self: center;
+    align-self: center;
+}
+#cart-menu #main2{
+    padding: 20px;
+    border-radius: 16px;
+    font-family: calibri;
+}
+#main2 h3{
+    padding: 10px 0px;
+}
+#checkout{
+    display: block;
+    background-color: #28a745;
+    color: white;
+    width: 100%;
+    padding: 8px 10px;
+    border-radius: 8px;
+    margin: 5px 0px;
+}
+#checkout span{
+    float: right;
+}
+
+#main2 p{
+    color: rgb(175, 173, 173);
+    font-size: 12px;
+    margin: 5px 0px;
+}
+#main2 h4{
+    padding-top:35px ;
+    padding-bottom: 8px;
+}
+#main2 input{
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid gainsboro;
+    margin: 5px 0px;
+}
+#main2 button{
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid black;
+    background-color: transparent;
+}
+#main2 aside{
+    border: 1px solid gainsboro;
+    border-radius: 8px;
+}
+#main2 aside b{
+    display: block;
+    width: 100%;
+    padding: 8px 10px;
+    border-radius: 8px;
+    border-bottom: 1px solid gainsboro;
+    border-radius: 0px;
+}
+#main2 aside b span{
+    float: right;
+}
+#main2 aside b#last-b{
+    border: none;
+}
+
+#fixed{
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+}
+
+
+/* ---------------- */
+#cart-menu #main1{
+    font-family: calibri;
+}
+#cart-menu #main1 p{
+    color: rgb(128, 6, 6);
+    background-color: rgb(253, 224, 224);
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid rgba(118, 41, 41, 0.511);
+    margin-bottom: 10px;
+}
+#cart-menu #main1 #btnart button{
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #28a745;
+    border: none;
+}
+#cart-menu #main1  #btnart{
+    padding: 10px 0px;
+}
+#cart-menu #main1 #btnart #dark{
+    background-color: rgb(2, 2, 30);
+    float: right;
+}
+#cart-menu #main1 aside{
+    
+}
+#cart-menu #main1 aside div{
+    padding: 15px;
+    border-top: 1px solid gainsboro;
+    display: grid;
+    grid-template-columns: 100px 2fr .7fr .7fr;
+}
+#cart-menu #main1 aside div img{
+    width: 100%;
+}
+#cart-menu #main1 aside div h3{
+    font-size: 24px;
+}
+#cart-menu #main1 aside div b{
+    font-weight: lighter;
+    color: gray;
+}
+#cart-menu #main1 aside div #temp{
+    align-content: center;
+    justify-self: center;
+}
+#cart-menu #main1 aside div button{
+    margin: 0px;
+}
+#cart-menu #main1 aside #bottom{
+    border-bottom: 1px solid gainsboro;
+}
+
+#cart-menu #main1 aside div #temp b{
+    color: black;
+    font-weight: bold;
+}

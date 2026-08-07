@@ -1,0 +1,44 @@
+In a HTML  : 
+Tag/Element  : 
+1.Block Element : 
+    - covered full width 
+    - always start and End with New Line 
+    - h1 to h6 , p 
+    - div, section,main,aside,article,header,footer
+
+
+2. Inline Element 
+    - use only text size : width 
+    - always start and End with Same Line 
+    - b ,i , u , em 
+    - span
+
+
+
+In a CSS : 
+1. Block : 
+    - default width : 100%
+    - width Changable
+    - default height : auto 
+    - height Changable
+    - padding workable
+    - margin workable
+    - margin : auto workable
+
+2. Inline :
+    - default width : auto
+    - default height : auto
+    - width not Changable
+    - height not Changable
+    - padding workable (not properly)
+    - margin workable only left+right
+    - margin : auto not workable
+
+3. Inline-Block :
+    - default width : auto
+    - default height : auto
+    - width Changable
+    - height Changable
+    - padding workable
+    - margin workable
+    - margin : auto not workable
