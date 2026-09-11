@@ -66,20 +66,20 @@
 
 # WAP to Print Sum of All Even Number by given range
 
-num1 = int(input("Enter N1 :"))
-num2 = int(input("Enter N2 :"))
-sumAll = 0
+# num1 = int(input("Enter N1 :"))
+# num2 = int(input("Enter N2 :"))
+# sumAll = 0
 
 # if(num1>num2):
 #     temp = num1
 #     num1 = num2
-#     num2 = temp
+# #     num2 = temp
 
-for i in range(num1,num2):
-    if( i % 2 == 0):
-        sumAll = sumAll+i
+# for i in range(num1,num2):
+#     if( i % 2 == 0):
+#         sumAll = sumAll+i
 
-print(sumAll)# 2,4,6,8,10
+# print(sumAll)# 2,4,6,8,10
 
 
 
@@ -101,3 +101,30 @@ Expected Output :
 The even numbers are :2 4 6 8 10
 The Sum of even Natural Number upto 5 terms : 30
 """
+
+# num = int(input("Input number of terms :"))
+# sum = 0
+# print("The odd numbers are :",end="")
+# for i in  range(1,(num*2)+1):
+#     if(i%2!=0):
+#         # sum+=i 
+#         sum = sum + i
+#         print(i,end=" ")
+
+# print("")
+# print("The Sum of odd Natural Number upto 10 terms :",sum)
+
+
+
+
+# num = int(input("Input number of terms :"))
+# sum = 0
+# print("The even numbers are :",end="")
+# for i in  range(1,(num*2)+1):
+#     if(i%2==0):
+#         # sum+=i 
+#         sum = sum + i
+#         print(i,end=" ")
+
+# print("")
+# print("The Sum of even Natural Number upto",num,"terms :",sum)
